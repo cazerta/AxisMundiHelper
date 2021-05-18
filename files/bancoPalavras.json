@@ -1,0 +1,14 @@
+{
+    "banco": [
+        { 
+            "palavra": "CINEMA",
+            "status": false,
+            "locked": false
+        },
+        {
+            "palavra": "GATO",
+            "status": false,
+            "locked": false
+        }
+    ]
+}
