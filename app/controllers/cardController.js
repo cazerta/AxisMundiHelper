@@ -20,8 +20,11 @@ app.controller('gramaticaCtrl', function($scope, $http) {
         if (wordObject.palavra === upperCaseTyped) {
             wordObject.valid = true;
             wordObject.locked = true;
+            wordObject.tried = false;
         } else {
             wordObject.valid = false;
+            wordObject.locked = false;
+            wordObject.tried = true;
         };
     }
 })
