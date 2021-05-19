@@ -7,7 +7,6 @@ app.controller('gramaticaCtrl', function($scope, $http) {
     $http
         .get('https://cazerta.github.io/AxisMundiHelper/files/bancoPalavras.json')
         .then((data) => {
-            console.log(data);
             ctrl.palavras = data.data.banco;
         });
     

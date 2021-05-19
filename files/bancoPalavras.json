@@ -1,9 +1,19 @@
 {
-    "banco": [
-        { "palavra": "CINEMA" },
-        { "palavra": "GATO" },
-        { "palavra": "BOLA" },
-        { "palavra": "BALA" },
-        { "palavra": "ALICE" }
+    "Banco": [
+      {
+        "Palavra": "PAPAI"
+      },
+      {
+        "Palavra": "CAROL"
+      },
+      {
+        "Palavra": "ABELHA"
+      },
+      {
+        "Palavra": "MOTO"
+      },
+      {
+        "Palavra": "CASA"
+      }
     ]
-}
+  }
