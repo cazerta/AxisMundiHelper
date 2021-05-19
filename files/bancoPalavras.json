@@ -1,19 +1,19 @@
 {
-    "Banco": [
+    "banco": [
       {
-        "Palavra": "PAPAI"
+        "palavra": "PAPAI"
       },
       {
-        "Palavra": "CAROL"
+        "palavra": "CAROL"
       },
       {
-        "Palavra": "ABELHA"
+        "palavra": "ABELHA"
       },
       {
-        "Palavra": "MOTO"
+        "palavra": "MOTO"
       },
       {
-        "Palavra": "CASA"
+        "palavra": "CASA"
       }
     ]
   }
